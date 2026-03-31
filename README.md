@@ -10,8 +10,11 @@ Currently, I'm honing my skills in building intelligent systems and clean, user-
 ###  Tech Stack & Tools
 
 **Languages:** Python, Java, C++
+
 **AI/ML:** Scikit-Learn, TensorFlow, Pandas, NumPy
+
 **Web Development:** Streamlit, Flask, HTML5, CSS3
+
 **Tools:** Git, GitHub, VS Code, Jupyter Notebooks
 
 
