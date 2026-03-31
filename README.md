@@ -1,41 +1,24 @@
-# Hi there, I'm Vaishnavi Yadav! 👋
+# Hi there, I'm Vaishnavi! 👋
 
-###  Aspiring AI/ML Engineer | Computer Science Undergrad at VIT Bhopal
+### About Me
 
-I am a passionate B.Tech student specializing in **Artificial Intelligence and Machine Learning**.
-I love exploring the intersection of data, algorithms, and real-world problem-solving.
-Currently, I'm honing my skills in building intelligent systems and clean, user-centric applications.
+* 🎓 B.Tech Computer Science student specializing in AI & ML at VIT Bhopal University
+* 📍 Bhopal, Madhya Pradesh, India
+* 💻 Passionate about building intelligent systems, cybersecurity, and creative UI/UX
 
+### What I Hope to Learn
 
-###  Tech Stack & Tools
+I hope to deepen my understanding of neural networks and deep learning to build more advanced AI applications.
+Over the next few years, I aim to explore the intersection of technology and management—specifically in how AI can streamline healthcare systems—while continuing to refine my skills in software development and secure coding.
 
-**Languages:** Python, Java, C++
+### Connect With Me
 
-**AI/ML:** Scikit-Learn, TensorFlow, Pandas, NumPy
+* 🔗 LinkedIn: [Vaishnavi Yadav](https://www.linkedin.com/in/vaishnavi-yadav-08867b3b7/)
+* 💼 GitHub: [VaishnaviYadav](https://github.com/vaishnavi-del-sudo)
+* 📧 Email: itsmevaishnavi9707@gmail.com
 
-**Web Development:** Streamlit, Flask, HTML5, CSS3
+### My Projects
 
-**Tools:** Git, GitHub, VS Code, Jupyter Notebooks
-
-
-###  Current Focus & Interests
-
-* **Cybersecurity & AI:** I'm particularly interested in how machine learning can be used to bolster digital security, such as pattern recognition in password entropy.
-* **Creative Coding:** I enjoy blending technical functionality with aesthetics—think Neon/Synthwave UI designs and interactive web apps.
-* **Storytelling:** Beyond the code, I have a deep interest in narrative structures and creative writing, often exploring the darker, more psychological side of fiction.
-
-
-### Future Goals
-
- Master Deep Learning architectures and Neural Networks.
- Contribute to impactful Open Source AI projects.
- Bridge the gap between Healthcare and Management through technology.
- Publish my first novel while building a career in tech.
-
----
-
-###  Let's Connect!
-
-**LinkedIn:** [https://www.linkedin.com/in/vaishnavi-yadav-08867b3b7/]
-  
-
+* 🛡️ **Password Analyzer:** A Python-based tool utilizing Streamlit and `zxcvbn` to evaluate password strength and pattern entropy.
+* ✍️ **Creative Narratives:** An ongoing exploration of dual-POV storytelling in the horror genre (Ask me about my novel-in-progress!).
+* 🌐 **Cyber-Synth Portfolio:** Experimenting with Synthwave-inspired frontend designs for web applications.
